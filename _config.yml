@@ -34,6 +34,9 @@ url: 'https://ankushpratap95.github.io'
 github:
   username: ankushpratap95             # change to your github username
 
+facebook:
+  publisher: ankushpratap95
+
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
