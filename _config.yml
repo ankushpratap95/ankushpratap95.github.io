@@ -33,6 +33,11 @@ url: 'https://ankushpratap95.github.io'
 
 github:
   username: ankushpratap95             # change to your github username
+  
+facebook:
+  app_id: ankushpratap95
+#   publisher: 1234
+#   admins: 1234
 
 social:
   # Change to your full name.
