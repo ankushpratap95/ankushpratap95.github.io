@@ -21,7 +21,7 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Ankush Pratap Singh a                         # the main title
+title: Ankush Pratap Singh                        # the main title
 
 tagline: MS(Computer Engineering) student at New York University   # it will display as the sub-title
 
@@ -34,23 +34,20 @@ url: 'https://ankushpratap95.github.io'
 github:
   username: ankushpratap95             # change to your github username
 
-facebook:
-  username: ankushpratap95            # change to your twitter username
-
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@doamin.com             # change to your email address
+  name: Ankush Pratap Singh
+  email: ankushpratap@nyu.edu             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    #- https://twitter.com/username      # change to your twitter homepage
+    #- https://github.com/username       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/ankushpratap95
+    - https://www.linkedin.com/in/ankushpratap95
 
-google_site_verification:               # fill in to your verification string
+google_site_verification:   Neelpr@t@p2920            # fill in to your verification string
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
@@ -83,7 +80,7 @@ theme_mode:   # [light|dark]
 img_cdn: 'https://raw.githubusercontent.com/cotes2020/chirpy-images/main'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: ''
+avatar: '/5493926E-E813-4041-AE3F-30EA44EAF507.jpeg'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
