@@ -23,7 +23,7 @@ timezone: America/New_York
 
 title: Ankush Pratap Singh                        # the main title
 
-tagline: MS(Computer Engineering) New York University   # it will display as the sub-title
+tagline: MS(Computer Engineering)    New York University   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
