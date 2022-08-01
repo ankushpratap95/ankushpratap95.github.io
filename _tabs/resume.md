@@ -4,4 +4,4 @@ icon: fas fa-stream
 order: 2
 ---
 
-[Click Here To Download](https://ankushpratap95.github.io/resume_ankush.pdf "Download")
+[Download](https://octodex.github.com/images/minion.png "download")
