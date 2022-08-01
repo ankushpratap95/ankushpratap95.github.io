@@ -11,6 +11,8 @@ After working for about 3.5 years in the Indian IT(software) industry, where I w
 
 Here at New York University, I've had the pleasure of studying under some really qualified and knowledgable professors and later on working as Graduate Teaching assistant as well for a couple fo them. 
 
+I enjoy teaching and I truly believe in what Richard Feynman said, "I you want to master something, teach it". So, I make sure whenever I study something, I try teaching those topics to some other students or colleagues of mine.
+
 Apart from studies, I enjoy watching sports. I am a huge cricket fan. I love watching movies, theatres, broadways. I like meeting people of different backgrounds and listening to their stories about their culture, life and beliefs.
 
 I have provided my contact details in one of the tabs, so if anyone want to connect or share something, I would love to connect.
