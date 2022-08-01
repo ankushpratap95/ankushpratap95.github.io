@@ -5,3 +5,5 @@ order: 2
 ---
 
 [Click Here to Download](https://ankushpratap95.github.io/resume_ankush.pdf "download")
+
+[link](./resume_ankush.pdf.md) Download
