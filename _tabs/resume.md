@@ -4,4 +4,4 @@ icon: fas fa-stream
 order: 2
 ---
 
-Hello This is my resume
+[Click Here to Download](https://ankushpratap95.github.io/resume_ankush.pdf "download")
