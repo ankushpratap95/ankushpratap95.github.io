@@ -4,7 +4,7 @@ icon: fas fa-stream
 order: 2
 ---
 
-<embed src="https://ankushpratap95.github.io/resmue_ankush.pdf" type="application/pdf">
+<embed src="https://ankushpratap95.github.io/resmue_ankush.pdf" type="application/pdf" width:70% height:50%>
 
 ![Resume Page-1](https://ankushpratap95.github.io/resmue_ankush_page-0001.jpg "Resume Page-1")
 ![Resume Page-2](https://ankushpratap95.github.io/resmue_ankush_page-0002.jpg "Resume Page-2")
