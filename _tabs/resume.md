@@ -4,6 +4,7 @@ icon: fas fa-stream
 order: 2
 ---
 
-![Resume](https://ankushpratap95.github.io/resmue_ankush.pdf "Resume")
+<embed src="https://ankushpratap95.github.io/resmue_ankush.pdf" type="application/pdf">
+
 
 [Click Here to Download](https://ankushpratap95.github.io/resmue_ankush.pdf "download")
