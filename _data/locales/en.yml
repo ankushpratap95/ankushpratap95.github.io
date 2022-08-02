@@ -3,6 +3,7 @@
 # ----- Commons label -----
 
 layout:
+  home: Home
   post: Post
   category: Category
   tag: Tag
