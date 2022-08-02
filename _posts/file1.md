@@ -1,6 +1,6 @@
 ---
-title: Post1
+title: Home
 categories: [TOP_CATEGORIE, SUB_CATEGORIE]
 tags: [post1]     # TAG names should always be lowercase
 ---
-Post 1 Testing
+Home 1 Testing
