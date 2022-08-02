@@ -39,6 +39,8 @@ facebook:
 #   publisher: 1234
 #   admins: 1234
 
+future: true
+
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
