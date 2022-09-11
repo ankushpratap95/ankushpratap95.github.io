@@ -26,7 +26,7 @@ title: Ankush Pratap Singh                        # the main title
 tagline: MS(Computer Engineering) at New York University   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  This is the personal bio of Ankush Pratap Singh. I am a MS student at NYU in Computer Engineering.
+  This is the personal bio of Ankush Pratap Singh. I am a MS student at NYU in Computer Engineering.I am interested in Machine Learning, Deep Learning and Computer Vision. I am a prospective Phd student.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://ankushpratap95.github.io'
@@ -34,11 +34,6 @@ url: 'https://ankushpratap95.github.io'
 github:
   username: ankushpratap95             # change to your github username
   
-facebook:
-  app_id: ankushpratap95
-#   publisher: 1234
-#   admins: 1234
-
 future: true
 
 social:
