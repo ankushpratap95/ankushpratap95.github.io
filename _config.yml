@@ -79,7 +79,7 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 'https://raw.githubusercontent.com/cotes2020/chirpy-images/main'
+img_cdn: 'https://ankushpratap95.github.io/5493926E-E813-4041-AE3F-30EA44EAF507.jpeg'
 
 # the avatar on sidebar, support local or CORS resources
 avatar: 'https://ankushpratap95.github.io/5493926E-E813-4041-AE3F-30EA44EAF507.jpeg'
