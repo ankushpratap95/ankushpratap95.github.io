@@ -26,8 +26,7 @@ title: Ankush Pratap Singh                        # the main title
 tagline: MS(Computer Engineering) at New York University   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  This is the personal bio of Ankush Pratap Singh. I am a masters (M.S.) student at NYU in Computer Engineering. I am interested in Machine Learning, Deep Learning and Computer Vision. I am a prospective Phd student.
-
+ This is the personal bio of Ankush Pratap Singh. I am a computer engineering graduate from New York University with a master's degree. My passion lies in the fields of machine learning, deep learning, and computer vision. With a strong interest in these areas, I strive to explore innovative applications and advancements that drive the future of technology. I am a prospective Phd student.
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://ankushpratap95.github.io'
 
@@ -79,7 +78,7 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 'https://ankushpratap95.github.io/5493926E-E813-4041-AE3F-30EA44EAF507.jpeg'
+img_cdn: 'https://ankushpratap95.github.io/Screenshot_20230226-211645__01.jpg'
 
 # the avatar on sidebar, support local or CORS resources
 avatar: 'https://ankushpratap95.github.io/5493926E-E813-4041-AE3F-30EA44EAF507.jpeg'
