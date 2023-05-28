@@ -18,3 +18,4 @@ As I venture into the next phase of my career, I am filled with a mix of excitem
 To all my fellow graduates, congratulations on this remarkable achievement! We have worked tirelessly, overcome countless obstacles, and persevered through the most challenging times. Let's cherish these memories, celebrate our accomplishments, and embrace the endless possibilities that lie ahead.
 
 I am incredibly proud to be a graduate of NYU Tandon School of Engineering, and I am excited to join the distinguished community of alumni who are making a difference in their respective fields. Thank you, New York University, for shaping me into the person I am today and providing me with an education beyond the classroom.
+
