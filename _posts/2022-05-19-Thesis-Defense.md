@@ -22,4 +22,6 @@ Once again, I want to express my deepest gratitude to everyone who has been a pa
 
 Thank you all for being a part of this wonderful journey, and here's to new beginnings and endless possibilities! 🥂🌟
 
+A version of my thesis can be read <a href="ankushpratap95.github.io/thesis_ankush.pdf>here</a>.
+
 
