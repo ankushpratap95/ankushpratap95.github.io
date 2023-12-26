@@ -1,7 +1,7 @@
 ---
 title: 🎉 Exciting News! Thesis Defense Success! 🎓
 date: 2023-05-19 10:00:00
-pin: true
+pin: false
 ---
 I am absolutely thrilled to announce that I have successfully defended my thesis! It is with immense joy and gratitude that I share this milestone in my academic journey. After months (and even years) of hard work, research, and dedication, I can finally say that I am officially a proud defender of my thesis!
 
