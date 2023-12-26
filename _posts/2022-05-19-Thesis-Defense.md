@@ -1,5 +1,5 @@
 ---
-title: 🎉 Exciting News! Thesis Defense Success! 🎓
+title: Exciting News! Thesis Defense Success!
 date: 2023-05-19 10:00:00
 pin: false
 ---
