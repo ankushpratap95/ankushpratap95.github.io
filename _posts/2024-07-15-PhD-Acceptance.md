@@ -1,3 +1,9 @@
+---
+title: 🎓 Starting my PhD Journey 🎉
+date: 2024-07-15 10:00:01
+pin: true
+---
+
 🌟 Exciting News! 🌟
 
 I'm thrilled to share that I've been accepted as a **PhD student** at **New York Institute of Technology New York**, starting Fall 2024! I will be diving deep into Computer Science with a focus on Deep Learning and Affective Computing under the guidance of **Prof. Houwei Cao**.
