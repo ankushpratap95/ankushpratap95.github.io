@@ -1,8 +1,8 @@
 ---
 layout: homepage
 ---
-
-I am a Ph.D. student in Computer Science at the New York Institute of Technology, advised by [Prof. Houwei Cao](https://www.nyit.edu/bio/houwei-cao/) and  [Prof. Yong Liu](https://engineering.nyu.edu/faculty/yong-liu) at New York University. 
+<h2 id="home">About Me</h2>
+Hi, I am Ankush Pratap. I am a Ph.D. student in Computer Science at the New York Institute of Technology, advised by [Prof. Houwei Cao](https://www.nyit.edu/bio/houwei-cao/) and  [Prof. Yong Liu](https://engineering.nyu.edu/faculty/yong-liu) at New York University. 
 
 My research lies at the intersection of multimodal machine learning, human-centered AI, and affective computing. 
 I am interested in designing learning algorithms that enable AI systems to integrate information across multiple modalities, reason effectively, and generalize to complex real-world scenarios. 
