@@ -1,0 +1,47 @@
+# Basic Information 
+title: Ankush Pratap Singh
+position: PhD Candidate
+affiliation: New York Institute of Technology
+affiliation_link: https://www.nyit.edu
+affiliation_logo: ./assets/img/images.png
+email: asing213 (at) nyit.edu, ax2047 (at) nyu.edu
+
+# Search Engine Optimization (SEO)
+keywords: ankush pratap singh, singh ankush pratap, ankush singh, singh ankush, ankush pratap, pratap ankush, ankushpratapsingh, singhankushpratap, ankushpratap, pratapankush
+canonical: https://ankushpratap95.github.io
+description: Ankush Pratap Singh is a Ph.D. candidate in Computer Science at the New York Institute of Technology. His research focuses on multimodal machine learning and interaction, cross-modal representation learning, emotion recognition and reasoning, and human-centered AI. He aims to develop systems that are more robust, more interpretable, and better at understanding human behavior. Before pursuing his research, Ankush worked as a software engineer and earned his M.S. in Computer Engineering from New York University.
+
+# The option is used to enable the Illinois template.
+enable_hopkins_logo: true
+
+# The option is used to show the last update time.
+enable_last_update: false
+
+# Links
+link_type: icon #text/icon
+google_scholar: https://scholar.google.com/citations?user=fR7OigIAAAAJ
+github_link: https://github.com/ankushpratap95
+linkedin: https://www.linkedin.com/in/ankushpratap95/
+twitter: https://x.com/un_khush
+
+# Images 
+avatar: ./assets/img/self.jpg
+
+# Footnotes
+footnote: 
+footnote_link:
+
+# Analytics
+# Please remove the following lines about analytics services if you fork my project. 
+# Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
+clustrmaps_id:
+
+# The following files will be removed from the generated website.
+exclude:
+  - build.sh
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - CNAME
+  - services.md
