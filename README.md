@@ -27,7 +27,7 @@ The website includes:
 
 ## Acknowledgements
 
-This website is built upon the excellent academic website template developed by Yaoyao Liu.
+This website is built upon the excellent academic website template developed by <a href="https://github.com/yaoyao-liu/yaoyao-liu.github.io/tree/main">Yaoyao Liu</a>.
 
 If you find this template useful, please consider using and starring the original repository.
 
