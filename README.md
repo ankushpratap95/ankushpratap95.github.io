@@ -36,5 +36,6 @@ If you find this template useful, please consider using and starring the origina
 **Ankush Pratap Singh**
 
 📧 asing213@nyit.edu
+
 📧 ax2047@nyu.edu
 
