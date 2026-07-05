@@ -1,0 +1,13 @@
+User-agent: *
+Allow: index.html
+Disallow: /assets/css/
+Disallow: /assets/img/
+Disallow: /assets/js/
+Disallow: /google_scholar_crawler/
+Disallow: /404.html
+Disallow: /LICENSE
+Disallow: /.gitignore
+Disallow: /.github/
+Disallow: /README.md
+
+Sitemap: https://ankushpratap95.github.io/sitemap.xml
