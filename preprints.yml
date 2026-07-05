@@ -1,0 +1,21 @@
+main:
+
+  - title: SPICE - Synergy and Partial Information Based Curriculum Evolution
+    authors: <strong>Ankush Pratap Singh</strong>, Houwei Cao, Yong Liu
+    conference_short: arXiv
+    conference: arXiv:2606.16639, 2026.
+    year: 2026
+    pdf: https://arxiv.org/pdf/2606.16639
+    bibtex: https://arxiv.org/abs/2606.16639
+    image: ./assets/img/spice.jpg
+
+  - title: CHUCKLE - When Humans Teach AI To Learn Emotions The Easy Way
+    authors: Ankush Pratap Singh, Houwei Cao, Yong Liu
+    conference_short: arXiv
+    conference: arXiv:2510.09382v3, 2026.
+    year: 2026
+    pdf: https://arxiv.org/pdf/2510.09382v3
+    bibtex: https://arxiv.org/abs/2510.09382v3
+    code: https://github.com/ankushpratap95/CHUCKLE
+    image: ./assets/img/chuckle.jpg
+    # others: '<br><a href="https://venturebeat.com/ai/researchers-find-that-retraining-only-small-parts-of-ai-models-can-cut-costs" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600">Media Coverage by VentureBeat</i></strong></a>'

@@ -1,0 +1,24 @@
+main:
+  - title: "Contact"
+    url: contact
+    right: true
+
+  - title: "Resume"
+    url: /assets/docs/resume_ankushpratapsingh.pdf
+    
+  - title: "Teaching"
+    url: teaching
+    
+    
+  - title: "Publications"
+    url: publications
+    
+
+  - title: "News"
+    url: news
+    
+
+  - title: "Home"
+    url: 
+    
+

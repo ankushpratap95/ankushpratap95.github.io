@@ -1,0 +1,11 @@
+main:
+
+  - title: "Human-Inspired Summarization: Cluster Scene Videos into Diverse Frames"
+    authors: Chao Chen, Mingzhi Zhu, <strong>Ankush Pratap Singh</strong>, Yu Yan, Felix Juefei-Xu, Chen Feng
+    conference_short: ICCVW
+    conference: ICCV 2025 workshop.
+    pdf: https://openaccess.thecvf.com/content/ICCV2025W/HCV/papers/Chen_Human-Inspired_Summarization_Cluster_Scene_Videos_into_Diverse_Frames_ICCVW_2025_paper.pdf
+    bibtex: https://openaccess.thecvf.com/content/ICCV2025W/HCV/html/Chen_Human-Inspired_Summarization_Cluster_Scene_Videos_into_Diverse_Frames_ICCVW_2025_paper.html
+    image: ./assets/img/iccv2025.jpg
+    notes: Oral Presentation
+
