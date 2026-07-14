@@ -12,7 +12,7 @@ canonical: https://ankushpratap95.github.io
 description: Ankush Pratap Singh is a Ph.D. candidate in Computer Science at the New York Institute of Technology. His research focuses on multimodal machine learning and interaction, cross-modal representation learning, emotion recognition and reasoning, and human-centered AI. He aims to develop systems that are more robust, more interpretable, and better at understanding human behavior. Before pursuing his research, Ankush worked as a software engineer and earned his M.S. in Computer Engineering from New York University.
 
 # The option is used to enable the Illinois template.
-enable_hopkins_logo: true
+enable_hopkins_logo: false
 
 # The option is used to show the last update time.
 enable_last_update: false
