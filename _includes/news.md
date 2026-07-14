@@ -3,6 +3,10 @@
 <ul>
 
 <li>
+  <strong>[Jul. 2026]</strong> I will be serving as a Technical Committee member for the <a href="https://sites.google.com/view/hcvworkshop2026">3rd Human-inspired Computer Vision (HCV) Workshop</a> at the <a href="https://eccv.ecva.net/">European Conference on Computer Vision (ECCV) 2026</a>.
+</li>
+
+<li>
   <strong>[Jul. 2026]</strong> My paper, <a href="https://arxiv.org/abs/2606.16639">SPICE: Synergy and Partial Information Based Curriculum Evolution</a> got accepted to the <a href="https://icmi.acm.org/2026/">28th ACM International Conference on Multimodal Interaction (ICMI) 2026</a>.
 </li>
 
