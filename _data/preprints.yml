@@ -11,7 +11,7 @@ main:
     image: ./assets/img/spice.jpg
 
   - title: CHUCKLE - When Humans Teach AI To Learn Emotions The Easy Way
-    authors: Ankush Pratap Singh, Houwei Cao, Yong Liu
+    authors: <strong>Ankush Pratap Singh</strong>, Houwei Cao, Yong Liu
     conference_short: Interspeech
     conference: Interspeech 2026.
     year: 2026
