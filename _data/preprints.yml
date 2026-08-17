@@ -9,6 +9,7 @@ main:
     bibtex: https://arxiv.org/abs/2606.16639
     code: https://github.com/ankushpratap95/SPICE
     image: ./assets/img/spice.jpg
+    notes: Oral Presentation
 
   - title: CHUCKLE - When Humans Teach AI To Learn Emotions The Easy Way
     authors: <strong>Ankush Pratap Singh</strong>, Houwei Cao, Yong Liu
