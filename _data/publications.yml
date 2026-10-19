@@ -16,12 +16,12 @@ main:
     conference_short: Interspeech
     conference: Interspeech 2026.
     year: 2026
-    pdf: https://arxiv.org/pdf/2510.09382v3
-    bibtex: https://arxiv.org/abs/2510.09382v3
+    pdf: https://www.isca-archive.org/interspeech_2026/singh26b_interspeech.pdf
+    bibtex: https://www.isca-archive.org/interspeech_2026/singh26b_interspeech.html
     code: https://github.com/ankushpratap95/CHUCKLE
     image: ./assets/img/chuckle.jpg
 
-  - title: "Human-Inspired Summarization: Cluster Scene Videos into Diverse Frames"
+  - title: Human-Inspired Summarization: Cluster Scene Videos into Diverse Frames
     authors: Chao Chen, <strong>Ankush Pratap Singh</strong>, Mingzhi Zhu, Yu Yan, Felix Juefei-Xu, Chen Feng
     conference_short: ICCVW
     conference: ICCV 2025 workshop.
